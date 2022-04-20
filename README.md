@@ -1,4 +1,4 @@
-<h1>THREE HANDS ARE DISPLAYED IN FOLLOWING</h1>
+<h1>THREE HANDS ARE DISPLAYED BELOW</h1>
 
 <img src="https://github.com/tensorknower69/tensorknower69/blob/main/saul.gif" alt="Saul Goodman" width=100% height=200>
 <h1>HANDS ARE</h1>
